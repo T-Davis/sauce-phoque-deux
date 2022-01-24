@@ -1,0 +1,7 @@
+{
+    "@@locale": "en",
+    "testString": "Hello Seals!",
+    "@testString": {
+        "description": "Text shown to test the system"
+    }
+}
